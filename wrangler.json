@@ -1,5 +1,6 @@
+// wrangler.json
 {
-  "name": "CMS-Website",
+  "name": "cms-website",
   "compatibility_date": "2026-08-31",
   "assets": {
     "directory": "./",
